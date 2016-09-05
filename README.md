@@ -17,11 +17,11 @@ The example.py in the example folder contains an example for the operations list
 
 The image
 
-![Cropped Google Static Maps Image](https://github.com/sgrvinod/Mercator-Projection-operations-on-Google-Static-Maps-images/blob/master/example/out.png?raw=true)
+![Cropped Google Static Maps Image](https://github.com/sgrvinod/Mercator-Projection-operations-on-Google-Static-Maps-images/blob/master/example/example.png?raw=true)
 
 crops to
 
-![Google Static Maps Image](https://github.com/sgrvinod/Mercator-Projection-operations-on-Google-Static-Maps-images/blob/master/example/example.png?raw=true)
+![Google Static Maps Image](https://github.com/sgrvinod/Mercator-Projection-operations-on-Google-Static-Maps-images/blob/master/example/out.png?raw=true)
 
 
 
