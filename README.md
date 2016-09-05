@@ -13,7 +13,7 @@ There are two classfiles for performing Mercator Projection and associated opera
 
 **Modeled in Python**
 
-The example.py in the example folder contains an example for the operations listed above. Given the shapefile of a property in Alameda, CA, whose Google Static Maps image is available, it crops it to the boundaries of the property (with a bleed).
+The example.py in the example folder contains an example for the operations listed above. Given the shapefile of a property in Alameda, CA, whose Google Static Maps image is available, it crops it to the boundaries of the property.
 
 The image
 
