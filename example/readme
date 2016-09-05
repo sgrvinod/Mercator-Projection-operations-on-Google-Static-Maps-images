@@ -1,0 +1,1 @@
+Example: given the shapefile of a property in Alameda, CA, whose Google Static Maps image is available, crop it to the boundaries of the property (with a bleed).
